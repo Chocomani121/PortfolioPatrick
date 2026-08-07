@@ -1,0 +1,7 @@
+.hoverShadow {
+  transition: var(--transition-micro-medium);
+
+  &:hover {
+    box-shadow: var(--shadow-l);
+  }
+}
