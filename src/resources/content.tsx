@@ -190,13 +190,13 @@ const about: About = {
         ],
         images: [
           {
-            src: "/images/gallery/nexseed java bootcamp.png",
+            src: "/images/gallery/nexseedjavabootcamp.png",
             alt: "Once UI Project",
             width: 16,
             height: 17,
           },
           {
-            src: "/images/gallery/Udemy.png",
+            src: "/images/gallery/udemy.png",
             alt: "Once UI Project",
             width: 10,
             height: 10,
